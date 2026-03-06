@@ -11,7 +11,7 @@ Install the required packages
 ```bash
 pip install -r requirements.txt
 ```
-Download the model (first authorize with the credentials)
+Download the model and dataset (first authorize with the credentials)
 ```bash
 dvc pull
 ```
